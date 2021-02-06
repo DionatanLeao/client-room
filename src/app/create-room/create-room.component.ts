@@ -38,7 +38,7 @@ export class CreateRoomComponent implements OnInit {
   }
 
   gotoList() {
-    this.router.navigate(['/rooms'];)
+    this.router.navigate(['/rooms']);
   }
 
 }
